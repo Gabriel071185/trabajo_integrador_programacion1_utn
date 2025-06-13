@@ -7,7 +7,7 @@
 📌 **Comisión:** M-2025-02  
 🌳 **Tema:** Árboles en Python  
 🎯 **Objetivo:** Explorar las estructuras de datos tipo árbol, aprender a representarlas e implementar sus operaciones para resolver problemas prácticos en programación.  
-🎥 **Enlace a video explicativo:** [Ver en YouTube](https://youtu.be/9MW5o3x5MTY)
+🎥 **Enlace a video explicativo:** [Ver en YouTube](https://youtu.be/wA4dhWkQnwU)
 
 
 > [!IMPORTANT]
@@ -34,6 +34,7 @@ cd trabajo_integrador_programacion1_utn
 - `Ejemplo_arbol_python/arbol.py`: Implementa la estructura de árbol binario y los métodos de recorrido (inorden, preorden, postorden), visualización y jerarquía por niveles.
 - `Ejemplo_arbol_python/use_case_1.py`: Caso de uso que crea y recorre un árbol binario utilizando letras del alfabeto.
 - `Ejemplo_arbol_python/use_case_2.py`: Caso de uso que crea y recorre un árbol binario representando puestos de una empresa.
+- `Ejemplo_arbol_python/use_case_3.py`: Caso de uso que crea y recorre un árbol de busqueda binario utilizando directamente las funciones del modulo "arbol.py".
 
 
 > [!WARNING]
